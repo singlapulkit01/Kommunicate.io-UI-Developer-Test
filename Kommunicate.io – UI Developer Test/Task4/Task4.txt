@@ -1,0 +1,8 @@
+I started acquiring skills in July 2020 about Web Development and decided to use the skills to make a project, and I was ready with the project by September 2020. In this, I used both Front-End and Back-End technologies. The technologies I used were HTML, CSS, JavaScript, JQuery, Bootstrap, AJAX, JSON, AngularJS, PHP & phpMyAdmin, and in the database I used MySQL.
+
+ In the project, I have created a Full-Stack Web Application from scratch which is running live on the internet. The name of my website is PetVetCare. In this project shelter services are provided for your pet(s). Here you can find the best veterinary services and pharmacy options to choose from for your pet. You can Sign-Up as a user and also Log-In to buy and sell your pet. 
+
+Nowadays there are a lot of E-Commerce or E-Learning websites and projects in the market but these projects were very common and also very prominent websites are also available. So I thought of making a website that was never used or something new for the market which everybody was in dire need of but was helpless because there was nothing of this sort.
+
+I have provided the link to my website below kindly check it out: 
+Link: https://petvetcareeee.000webhostapp.com/

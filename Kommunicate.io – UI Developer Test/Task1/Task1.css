@@ -1,0 +1,63 @@
+.line{
+    float: left;
+    border-left: solid black ;
+    position: absolute;
+    z-index: 5;
+    height: 44%;
+}
+.sentence{
+    color: #5553B7;
+}
+.button1{
+    background-color: #2ed364;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-top-left-radius: 20% 50%;
+    border-top-right-radius: 20% 50%;
+    border-bottom-left-radius: 20% 50%;
+    border-bottom-right-radius: 20% 50%;
+    border-style: hidden;
+    border-color: #2DD35C;
+    height: 36px;
+}
+.button2{
+    color: #5553B7;
+    background-color: white;
+    padding: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-top-left-radius: 20% 50%;
+    border-top-right-radius: 20% 50%;
+    border-bottom-left-radius: 20% 50%;
+    border-bottom-right-radius: 20% 50%;
+    border-color: #5553B7;
+    height: 36px;
+}
+.innerdiv{
+    background-color: #c5c5e4;
+    height: 25%;
+    color: #98AFC7;
+    float: right;
+    position: absolute;
+    width: 48%;
+    margin-left: 50%;
+    margin-top: 6%;
+    border-top-left-radius:25% 90%;
+    border-bottom-left-radius: 2% 7%;
+} 
+.outerdiv{
+    float: left;
+    position: absolute;
+    border-color: #9de9b6;
+    border-style: solid;
+    border-top-right-radius:30% 90%;
+    border-bottom-right-radius: 2% 5%;
+    width: 63%;
+    text-align: justify;
+    padding-left: 12%;
+    padding-top: 4.5%;
+    padding-bottom: 3%;
+    z-index: 2;
+    margin-top: 0.8%;
+}
